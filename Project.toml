@@ -1,0 +1,8 @@
+name = "Receive"
+uuid = "f360087c-3e58-4afd-9890-ee3a5296abfc"
+authors = ["akels <akels14@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Select = "ac7b3b08-bf78-4e82-aa6e-b038cb67d740"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
